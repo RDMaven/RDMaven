@@ -1,7 +1,7 @@
 <div align=center>
   <h2> RDMaven </h2>
   <h3>~ DevOps @ travelgreen<br>~ Student in Maths/Physics/CompSci @ Lycée Hoche (MP2I), France.</h3>
-  <img alt="Profil views" src="https://komarev.com/ghpvc/?username=RDMaven&label=Profile%20views&color=71a203&style=flat">
+  <img alt="Profil views" src="https://komarev.com/ghpvc/?username=RDMaven&label=Profile%20views&color=9745f5&style=flat">
 </div>
 
 ### 📖 — Contribution
@@ -24,13 +24,8 @@
 ### 📈 — Statistics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RDMaven&theme=tokyo-night&radius=8&height=300" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RDMaven&bg_color=000000&title_color=9745f5&color=ffffff&line=9745f5&area_color=9945fa&area=true&radius=8&height=300" width="100%">
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RDMaven&theme=tokyonight&include_all_commits=true&count_private=true&card_width=925&layout=compact" width="100%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RDMaven&theme=midnight-purple" width="49.5% height=100%">
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RDMaven&show_icons=true&count_private=true&theme=tokyonight&card_width=450" width="49.5%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RDMaven&theme=tokyonight&card_width=450" width="49.5%">
-</div>
-
